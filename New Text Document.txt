@@ -1,0 +1,6 @@
+data={"Name":["william","emma","sofia","markus","edward","thomas","ethan",np.nan,"arun","anika","basil"],
+     "Region":[np.nan,"north","east",np.nan,"west","west","south",np.nan,"west","east","south"],
+     "Sales":[50000,52000,np.nan,np.nan,42000,72000,49000,np.nan,67000,65000,70000],
+     "Expeness":[42000,43000,np.nan,np.nan,38000,39000,42000,np.nan,39000,50000,45000]}
+df=pd.DataFrame(data)
+df
