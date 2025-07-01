@@ -1,0 +1,10 @@
+Start Project using cmd :- python -m django startproject movie_reviews
+
+Run in server :-    python manage.py runserver
+
+TO create app :- python manage.py startapp movie # (movie = appname)
+
+To Migrate :- py manage.py migrate
+
+To conect Html Pages
+    create templates folder in applications and create html files
